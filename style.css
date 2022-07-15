@@ -39,7 +39,7 @@
   border-width: 0 1px 1px 0;
   transform: rotate(45deg);
   content: "";
-  /* display: none; */
+  display: none;
 }
 .control-panel input:checked ~.custom-checkbox:after{
   display: block;
